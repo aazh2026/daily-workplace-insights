@@ -18,7 +18,7 @@ Pre-defined workplace management topics with coverage tracking.
 - [ ] 谦逊领导力的效能研究
 
 ### 组织行为 (Organizational Behavior)
-- [x] 心理安全与团队创新 (DONE)
+- [x] 心理安全与团队创新 (DONE: 2026-03-27)
 - [ ] 组织公民行为的成本
 - [ ] 代际差异对管理的影响 (实证研究)
 - [ ] 远程办公对创新的真实影响 (基于数据)
